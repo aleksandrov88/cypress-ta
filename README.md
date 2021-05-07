@@ -81,7 +81,8 @@ Preconditions:
 
 Steps:
 
-1. Verify that there is no delete button present and that user can not delete non existing todo
+1. Verify that there is no delete button present
+2. Verify that user can not delete non existing todo
 
 Expected result
 
